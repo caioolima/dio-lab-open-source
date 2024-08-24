@@ -31,14 +31,14 @@ Sou desenvolvedor Full Stack em início de carreira, com forte entusiasmo por cr
 ## Projetos
 Aqui estão alguns dos projetos que desenvolvi:
 
-- **[Connecter Life](https://github.com/caioolima/deploy-frontend)**: Uma aplicação de frontend para gerenciamento de atividades e interações com a comunidade, utilizando React.js e CSS.
+- **[Connecter Life](https://github.com/caioolima/deploy-frontend)**: Uma rede social para viajantes e mochileiros, utilizando React.js, websocket, node.js, mongoDB.
 - **[Recipe App](https://github.com/caioolima/recipe-app)**: Uma aplicação web com dicas de receitas deliciosas, desenvolvida com react.js.
 - **[Conversor de Bitcoin](https://github.com/caioolima/Conversor_Bitcoin)**: Uma ferramenta para conversão de valores de dólar para bitcoin, desenvolvida com Flutter.
 - **[Gerenciamento de Funcionários](https://github.com/caioolima/AS---Teste-API)**: Um sistema para gerenciamento e teste de APIs para gestão de funcionários, usando node.js e mongoDB.
 
 ## Links
-- [Desafios de Projeto na DIO](https://www.digitalinnovation.one/challenges)
-- [Artigos na DIO](https://www.digitalinnovation.one/articles)
+- [Desafios de Projeto na DIO](https://www.dio.me/projects)
+- [Artigos na DIO](https://www.dio.me/articles)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/caiioocostaa/)
