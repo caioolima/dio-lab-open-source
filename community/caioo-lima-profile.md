@@ -1,0 +1,45 @@
+# Olá, eu sou Caio 👋
+
+## Sobre Mim
+Sou desenvolvedor Full Stack em início de carreira, com forte entusiasmo por criar soluções inovadoras e eficientes para o desenvolvimento web. Tenho experiência acadêmica em React.js, Node.js, MongoDB e WebSocket, com projetos pessoais que demonstram a aplicação prática de conceitos de desenvolvimento front-end e back-end. Busco uma oportunidade para aplicar e expandir meus conhecimentos em uma equipe colaborativa, contribuindo para o desenvolvimento de sistemas escaláveis e de alta qualidade.
+
+## Habilidades
+
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+### Frameworks e Tecnologias
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-000000?style=flat&logo=websockets&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Estilos e Design
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+## Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioolima&show_icons=true&hide_title=false)
+
+## Projetos
+Aqui estão alguns dos projetos que desenvolvi:
+
+- **[Connecter Life](https://github.com/caioolima/deploy-frontend)**: Uma aplicação de frontend para gerenciamento de atividades e interações com a comunidade, utilizando React.js e CSS.
+- **[Recipe App](https://github.com/caioolima/recipe-app)**: Um aplicativo para gerenciamento de receitas e planejamento de refeições, construído com React.js e Node.js.
+- **[Conversor de Bitcoin](https://github.com/caioolima/Conversor_Bitcoin)**: Uma ferramenta para conversão de valores de Bitcoin para moedas fiduciárias, desenvolvida com Python e Flask.
+- **[Gerenciamento de Funcionários](https://github.com/caioolima/AS---Teste-API)**: Um sistema para gerenciamento e teste de APIs para gestão de funcionários, usando Java Spring Boot e MySQL.
+
+## Links
+- [Desafios de Projeto na DIO](https://www.digitalinnovation.one/challenges)
+- [Artigos na DIO](https://www.digitalinnovation.one/articles)
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/caiioocostaa/)
+
